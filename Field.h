@@ -6,6 +6,8 @@
 #define GUNGAME_FIELD_H
 
 #include <vector>
+#include "Shape.h"
+#include "Object.h"
 
 namespace gg {
 
